@@ -109,3 +109,12 @@ at 9 p.m., 3 hours after 6 p.m.
 
 Consider only the positive value.
 
+## <img width="972" height="127" alt="image" src="https://github.com/user-attachments/assets/75602404-3d2b-4c24-afaa-162eeb85445e" />
+
+Wrong question
+
+## <img width="678" height="280" alt="image" src="https://github.com/user-attachments/assets/d681aafe-f1f1-4f02-8309-d39dbe5c3ab3" />
+
+Marked wrong by mistake
+
+
