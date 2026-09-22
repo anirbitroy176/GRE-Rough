@@ -117,4 +117,10 @@ Wrong question
 
 Marked wrong by mistake
 
+## <img width="647" height="70" alt="image" src="https://github.com/user-attachments/assets/570dfc4d-70ba-483d-a463-91fc80df8a4e" />
+$10^3-1=999$
 
+$10^4-1=9999$
+
+So sum of digits of
+$10^50-1= 50\times 9=450$
