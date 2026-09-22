@@ -66,3 +66,19 @@ $$
 where $a$ is the highest multiple of n in the given range
 
 $b$ is the lowest multiple of n in the given range
+
+## <img width="556" height="196" alt="image" src="https://github.com/user-attachments/assets/1051f2db-a20a-4aa8-bb28-bd88ce857bf1" />
+
+Choosing $n = 16$ is the trap.
+The correct answer is $5$ since the remainder of $5/11$
+
+is 5
+
+## <img width="1105" height="377" alt="image" src="https://github.com/user-attachments/assets/d89a2fad-fcb5-4f48-bccf-7e9222200630" />
+
+Every positive factor has a negative equivalent, so no.of positive factors = no. of negative factors.
+
+## <img width="510" height="58" alt="image" src="https://github.com/user-attachments/assets/9a26276d-41f7-43e3-aaa5-f26d4446d5f2" />
+<img width="1190" height="657" alt="image" src="https://github.com/user-attachments/assets/29d1bd49-56e1-4b60-a30c-66514d22fabf" />
+
+
