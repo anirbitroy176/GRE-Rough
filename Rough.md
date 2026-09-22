@@ -29,4 +29,11 @@ $$
 
 No. of positive factors = $(3+1)\times (2+1)\times (1+1) = 4\times 3\times 2 = 24$
 
- 
+## Least non-prime positive non-factor of 8!
+$8! = 8\times 7\times 6\times 5\times 4\times 3\times 2\times 1$
+
+Least **prime** positive non-factor = $11$
+
+1,2,3,4,5,6,7,8,9,10,12,14,16,18,20,21 all divide 8!
+
+So answer is $22$
