@@ -1,4 +1,4 @@
-## How many multiples of n from $x$ to $y$,inclusive? ($x$ < $y$)
+<img width="1078" height="341" alt="image" src="https://github.com/user-attachments/assets/ce38031a-1fa4-42c7-a892-764410be9ea5" />## How many multiples of n from $x$ to $y$,inclusive? ($x$ < $y$)
 
 $$
 \frac{a - b}{n} + 1
@@ -81,4 +81,31 @@ Every positive factor has a negative equivalent, so no.of positive factors = no.
 ## <img width="510" height="58" alt="image" src="https://github.com/user-attachments/assets/9a26276d-41f7-43e3-aaa5-f26d4446d5f2" />
 <img width="1190" height="657" alt="image" src="https://github.com/user-attachments/assets/29d1bd49-56e1-4b60-a30c-66514d22fabf" />
 
+##  <img width="1052" height="91" alt="image" src="https://github.com/user-attachments/assets/5a477f62-43b3-4bbc-993a-528ea9c2433d" />
+
+$$
+15.25 = 15 + 0.25 = 15 + \frac {25}{100} = 15 \frac {1}{4}
+$$
+
+$15 \frac {7}{28}$ (remainder 7)
+
+$15 \frac {11}{44}$ (remainder 7)
+
+$15 \frac {13}{52}$ (remainder 13)
+
+
+## <img width="577" height="56" alt="image" src="https://github.com/user-attachments/assets/90751eba-ebae-464a-8c5c-e2ac62bc2e80" />
+$\frac {56}{99}$ (If it is double repeating digits just put 99 below, only 9 if single repeating).
+
+## <img width="1185" height="172" alt="image" src="https://github.com/user-attachments/assets/f63de722-485c-4ff9-9ae2-7120f401590b" />
+
+Trap Error
+
+Wrote the answers as 3 hours, 6 p.m., however the **second** call is made at 6 p.m,.3 hours later, and the **third** call 
+
+at 9 p.m., 3 hours after 6 p.m.
+
+## <img width="1078" height="341" alt="image" src="https://github.com/user-attachments/assets/53cea24a-5ee1-40f8-b6c8-d63f5252395d" />
+
+Consider only the positive value.
 
